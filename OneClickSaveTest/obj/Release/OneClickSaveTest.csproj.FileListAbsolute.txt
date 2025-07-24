@@ -1,0 +1,33 @@
+C:\Users\dougg\source\repos\OneClickSaveTest\OneClickSaveTest\bin\Release\OneClickSaveTest.exe.config
+C:\Users\dougg\source\repos\OneClickSaveTest\OneClickSaveTest\bin\Release\OneClickSaveTest.exe
+C:\Users\dougg\source\repos\OneClickSaveTest\OneClickSaveTest\bin\Release\OneClickSaveTest.pdb
+C:\Users\dougg\source\repos\OneClickSaveTest\OneClickSaveTest\obj\Release\OneClickSaveTest.csprojAssemblyReference.cache
+C:\Users\dougg\source\repos\OneClickSaveTest\OneClickSaveTest\obj\Release\OneClickSaveTest.csproj.ResolveComReference.cache
+C:\Users\dougg\source\repos\OneClickSaveTest\OneClickSaveTest\obj\Release\OneClickSaveTest.OneClickSaveForm.resources
+C:\Users\dougg\source\repos\OneClickSaveTest\OneClickSaveTest\obj\Release\OneClickSaveTest.Properties.Resources.resources
+C:\Users\dougg\source\repos\OneClickSaveTest\OneClickSaveTest\obj\Release\OneClickSaveTest.csproj.GenerateResource.cache
+C:\Users\dougg\source\repos\OneClickSaveTest\OneClickSaveTest\obj\Release\OneClickSaveTest.csproj.CoreCompileInputs.cache
+C:\Users\dougg\source\repos\OneClickSaveTest\OneClickSaveTest\obj\Release\OneClickSaveTest.exe
+C:\Users\dougg\source\repos\OneClickSaveTest\OneClickSaveTest\obj\Release\OneClickSaveTest.pdb
+S:\Users_Shared\DougG\One-Click Save\v1.2\OneClickSaveTest\bin\Release\OneClickSaveTest.exe.config
+S:\Users_Shared\DougG\One-Click Save\v1.2\OneClickSaveTest\bin\Release\OneClickSaveTest.exe
+S:\Users_Shared\DougG\One-Click Save\v1.2\OneClickSaveTest\bin\Release\OneClickSaveTest.pdb
+S:\Users_Shared\DougG\One-Click Save\v1.2\OneClickSaveTest\obj\Release\OneClickSaveTest.csprojAssemblyReference.cache
+S:\Users_Shared\DougG\One-Click Save\v1.2\OneClickSaveTest\obj\Release\OneClickSaveTest.csproj.ResolveComReference.cache
+S:\Users_Shared\DougG\One-Click Save\v1.2\OneClickSaveTest\obj\Release\OneClickSaveTest.OneClickSaveForm.resources
+S:\Users_Shared\DougG\One-Click Save\v1.2\OneClickSaveTest\obj\Release\OneClickSaveTest.Properties.Resources.resources
+S:\Users_Shared\DougG\One-Click Save\v1.2\OneClickSaveTest\obj\Release\OneClickSaveTest.csproj.GenerateResource.cache
+S:\Users_Shared\DougG\One-Click Save\v1.2\OneClickSaveTest\obj\Release\OneClickSaveTest.csproj.CoreCompileInputs.cache
+S:\Users_Shared\DougG\One-Click Save\v1.2\OneClickSaveTest\obj\Release\OneClickSaveTest.exe
+S:\Users_Shared\DougG\One-Click Save\v1.2\OneClickSaveTest\obj\Release\OneClickSaveTest.pdb
+C:\Users\Alexander.Vasquez\Documents\v1.3final\OneClickSaveTest\bin\Release\OneClickSaveTest.exe.config
+C:\Users\Alexander.Vasquez\Documents\v1.3final\OneClickSaveTest\bin\Release\OneClickSaveTest.exe
+C:\Users\Alexander.Vasquez\Documents\v1.3final\OneClickSaveTest\bin\Release\OneClickSaveTest.pdb
+C:\Users\Alexander.Vasquez\Documents\v1.3final\OneClickSaveTest\obj\Release\OneClickSaveTest.csproj.AssemblyReference.cache
+C:\Users\Alexander.Vasquez\Documents\v1.3final\OneClickSaveTest\obj\Release\OneClickSaveTest.OneClickSaveForm.resources
+C:\Users\Alexander.Vasquez\Documents\v1.3final\OneClickSaveTest\obj\Release\OneClickSaveTest.Properties.Resources.resources
+C:\Users\Alexander.Vasquez\Documents\v1.3final\OneClickSaveTest\obj\Release\OneClickSaveTest.csproj.GenerateResource.cache
+C:\Users\Alexander.Vasquez\Documents\v1.3final\OneClickSaveTest\obj\Release\OneClickSaveTest.csproj.CoreCompileInputs.cache
+C:\Users\Alexander.Vasquez\Documents\v1.3final\OneClickSaveTest\obj\Release\OneClickSaveTest.csproj.CopyComplete
+C:\Users\Alexander.Vasquez\Documents\v1.3final\OneClickSaveTest\obj\Release\OneClickSaveTest.exe
+C:\Users\Alexander.Vasquez\Documents\v1.3final\OneClickSaveTest\obj\Release\OneClickSaveTest.pdb
