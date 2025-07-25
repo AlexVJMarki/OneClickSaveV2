@@ -334,7 +334,7 @@ namespace OneClickSaveTest
                 }
                 if (saveTemplateCSV)
                 {
-                    SaveTemplateCSV(saveDirectory, prefix + "template_" + saveName + suffix + ".csv");
+                    SaveTemplateCSV(saveDirectory, prefix + saveName + "_template" + suffix + ".csv");
                     Thread.Sleep(500);
                 }
                 if (saveScreenshot)
